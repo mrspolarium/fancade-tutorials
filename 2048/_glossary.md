@@ -23,6 +23,7 @@
 - CellValue - value of tile on top of cell
 
 ```OTHER:```
+- $Tiles - number of tile types
 - Check - test cell index used for checking if empty / has tile of same type
 
 ## OBJECTS:

@@ -2,9 +2,9 @@
 
 ## NUMBERS:
 ```LIST LENGTHS:```
-- $TsLen - list length for tile list
-- $DsLen - list length for digit list
-- Free - list length for list of vacant cells
+- $TsLen - list length of tile list
+- $DsLen - list length of digit list
+- Free - list length of list of vacant cells
 
 ```VARIABLES:```
 - Spacing - the gap between cells
